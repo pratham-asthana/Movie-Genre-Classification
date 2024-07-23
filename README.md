@@ -5,9 +5,9 @@ This project implements a movie genre classification system using various machin
 # Features
 - Data Processing: Converts movie descriptions into numerical features using TF-IDF and binary representations.
 - Classification Algorithms:
--- Random Forest
--- Bernoulli Naive Bayes
--- Multinomial Naive Bayes
+ - Random Forest
+ - Bernoulli Naive Bayes
+ - Multinomial Naive Bayes
 - Evaluation: Provides accuracy and detailed classification metrics for model evaluation.
 # Requirements
 - Python 3.x
